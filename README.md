@@ -13,6 +13,7 @@ These three Questions were answered based on the analysis:
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
+
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
 Based on the charts created as part of the exercise, the following three conclusions can be drawn about Kickstarter campaign:
