@@ -18,10 +18,11 @@ These three Questions were answered based on the analysis:
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
-Based on the charts created as part of the exercise, the following three conclusions can be drawn about Kickstarter campaign:
-Chart-1 shows that the rate of success in the music category is highest followed by Theatre and Film & Videos.
-If we filter Chart-2 based on categories, we find that Music has some sub-categories which have 100% success rates with lower number of historical campaigns. (Metal for example), which implies lesser competition for a new project in the sub-category.
-Chart-3 can be used to identify the most successful launch month for the campaign- May in this case.
+i. Chart-1 shows that the rate of success in the music category is highest followed by Theatre and Film & Videos.
+
+ii. If we filter Chart-2 based on categories, we find that Music has some sub-categories which have 100% success rates with lower number     of historical campaigns. (Metal for example), which implies lesser competition for a new project in the sub-category.
+
+iii. Chart-3 can be used to identify the most successful launch month for the campaign- May in this case.
 
 2.	What are some limitations of this dataset?
 
