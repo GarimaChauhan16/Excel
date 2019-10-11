@@ -20,7 +20,7 @@ These three Questions were answered based on the analysis:
 
    i. Chart-1 shows that the rate of success in the music category is highest followed by Theatre and Film & Videos.
 
-   ii. If we filter Chart-2 based on categories, we find that Music has some sub-categories which have 100% success rates with lower            number of historical campaigns. (Metal for example), which implies lesser competition for a new project in the sub-category.
+   ii. If we filter Chart-2 based on categories, we find that Music has some sub-categories which have 100% success rates with lower             number of historical campaigns. (Metal for example), which implies lesser competition for a new project in the sub-category.
 
    iii. Chart-3 can be used to identify the most successful launch month for the campaign- May in this case.
 
